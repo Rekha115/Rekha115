@@ -34,7 +34,7 @@
 ## 📫 How to Reach Me  
 - 📧 Email: rathorerekha052@gmail.com  
 - 🔗 LinkedIn: https://www.linkedin.com/in/rekha-h-rathore-284807324
-- 🔗 portfolio: https://rekha-portfolio-1bww.vercel.app/
+- 🔗 portfolio:https://portfolio-murex-iota-10.vercel.app/
 
 ---
 
