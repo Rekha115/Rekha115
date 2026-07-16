@@ -1,3 +1,4 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
 <h1 align="center">Hi 👋, I'm Rekha H Rathore</h1>
 
 <h3 align="center">
@@ -52,13 +53,12 @@
 # 💼 Experience
 
 ## 💻 Software Engineer Intern
-**Maruti Suzuki India Limited**
+**Uno Minda**
 
 - Worked as a Software Engineer Intern in the SAP Applications team.
 - Gained exposure to enterprise software development and development workflows.
 - Collaborated with team members to understand software development practices.
 - Improved debugging, analytical, and problem-solving skills.
-- Mentored by **Deepak Sir** and **Gautam Sir**.
 
 ---
 
@@ -167,15 +167,6 @@
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=Rekha115&theme=tokyonight&hide_border=true"/>
 </p>
-
----
-
-# 🚀 Currently Working On
-
-- 📸 Full Stack Instagram Clone
-- 🌐 Enhancing my Developer Portfolio
-- ⚛️ Learning Advanced React & Backend Development
-- 📚 Strengthening Data Structures & Algorithms
 
 ---
 
