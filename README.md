@@ -23,7 +23,7 @@
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="YOUR_HACKERRANK_PROFILE_LINK">
+<a href="https://www.hackerrank.com/profile/rathorerekhah052">
 <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
@@ -75,7 +75,7 @@
 
 <p align="center">
 
-<a href="YOUR_HACKERRANK_PROFILE_LINK">
+<a href="https://www.hackerrank.com/profile/rathorerekhah052">
 <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
@@ -161,7 +161,7 @@
 
 💼 **LinkedIn:** https://www.linkedin.com/in/rekha-h-rathore-284807324
 
-🏅 **HackerRank:** YOUR_HACKERRANK_PROFILE_LINK
+🏅 **HackerRank:** https://www.hackerrank.com/profile/rathorerekhah052
 
 📷 **Instagram:** https://instagram.com/rekha__.06
 
