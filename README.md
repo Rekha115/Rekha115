@@ -1,5 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"
-     style="transform: rotate(180deg);" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=header"/>
 <h1 align="center">Hi 👋, I'm Rekha H Rathore</h1>
 
 <h3 align="center">
