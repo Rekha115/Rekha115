@@ -1,4 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"
+     style="transform: rotate(180deg);" />
 <h1 align="center">Hi 👋, I'm Rekha H Rathore</h1>
 
 <h3 align="center">
@@ -153,23 +154,6 @@
 | 🎓 Student Grade Tracker | Java desktop application for managing student records | Java |
 
 ---
-
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Rekha115&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rekha115&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Rekha115&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 # 📫 Connect With Me
 
 📧 **Email:** **rathorerekha052@gmail.com**
